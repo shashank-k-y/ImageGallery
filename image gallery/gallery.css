@@ -1,0 +1,24 @@
+#image{
+	border: 3px solid black;
+	height: 650px;
+	width: 575px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: grey;
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 15px;
+    line-height: 500px;
+    font-size: 150%;
+    color:white;
+}
+.preview{
+		width:10%;
+		margin-left:17%;
+    border: 10px solid black;
+
+}
+img{
+	width:95%;
+}
